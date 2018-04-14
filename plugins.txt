@@ -8,4 +8,5 @@ htmlpublisher:1.14
 jacoco:2.2.1
 analysis-collector:1.52
 pipeline-utility-steps:1.5.1
+robot:1.6.4
 
