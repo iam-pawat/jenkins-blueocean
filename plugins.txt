@@ -1,8 +1,8 @@
-analysis-core:1.92
-dependency-check-jenkins-plugin:2.1.1
-htmlpublisher:1.14
-jacoco:2.2.1
-analysis-collector:1.52
-pipeline-utility-steps:1.5.1
-robot:1.6.4
-sonar:2.3
+analysis-core
+dependency-check-jenkins-plugin
+htmlpublisher
+jacoco
+analysis-collector
+pipeline-utility-steps
+robot
+sonar
