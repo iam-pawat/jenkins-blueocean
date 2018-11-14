@@ -6,3 +6,4 @@ analysis-collector
 pipeline-utility-steps
 robot
 sonar
+slack
